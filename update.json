@@ -1,8 +1,8 @@
 ﻿{
-    "versi_terbaru":  "2.0.0.4",
-    "tanggal_rilis":  "2026-09-01 11.16.29",
-    "url_unduh":  "https://github.com/salman-ir/nexus-pdf-pro/releases/download/2.0.0.4/Setup_Nexus_PDF_Pro_V2.0.0.4.exe",
-    "sha256":  "d0d8efd7ffad41fe4f38081c2eb4e2bb43ab91ede30ddd4ddb784ed14348c65a",
+    "versi_terbaru":  "2.0.0.5",
+    "tanggal_rilis":  "2026-09-05 07.45.51",
+    "url_unduh":  "https://github.com/salman-ir/nexus-pdf-pro/releases/download/2.0.0.5/Setup_Nexus_PDF_Pro_V2.0.0.5.exe",
+    "sha256":  "b1a028931ce598c1bc807aeeca2cf42c547e62fb10c49ee6c84cf0680960ec36",
     "wajib_update":  false,
     "catatan_rilis":  "Pembaruan mesin PDF, keamanan sistem, dan stabilitas fitur ekstraksi."
 }
